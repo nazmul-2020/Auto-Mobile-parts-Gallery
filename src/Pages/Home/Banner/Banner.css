@@ -5,7 +5,7 @@
     background-size: cover;
     background-attachment:fixed;
     /* clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%); */
-    clip-path: circle(180vh at 50% -90vh);
+    clip-path: circle(180vh at 50% -70vh);
 
     height: 100vh;
 }
