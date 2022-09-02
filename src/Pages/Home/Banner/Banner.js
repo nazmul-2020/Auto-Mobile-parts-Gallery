@@ -3,7 +3,7 @@ import './Banner.css'
 
 const Banner = () => {
     return (
-        <div className='banner'>
+        <div className='banner  '>
             <div className='overlay flex justify-center items-center '>
                 <div className='w-1/2 text-center'>
                     <h1 className="text-4xl text-white banner-title py-3"

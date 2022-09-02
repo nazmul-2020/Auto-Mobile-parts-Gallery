@@ -3,7 +3,7 @@
 // const Footer = () => {
 //     return (
 //         <div>
-            
+
 //         </div>
 //     );
 // };
@@ -47,8 +47,8 @@ const Footer = () => {
       </div>
       <div>
         <span className="footer-title">ADDRESS</span>
-        <p>Address: Bangladesh, Jashore</p>
-        <p>Jashore, Sadar Road</p>
+        <p>Address: Cumilla,Bangladesh.</p>
+        <p>Cumilla, Sadar Road</p>
         <p>
           Email:{' '}
           <strong className="font-bold text-sm">nazmulcpi@gmail.com</strong>{' '}

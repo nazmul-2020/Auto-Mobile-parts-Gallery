@@ -7,8 +7,8 @@ const Navbar = () => {
         <li><NavLink to="/myPortfolio">My Portfolio</NavLink></li>
         <li><NavLink to="/blog">Blog</NavLink></li>
         <li><NavLink to="/dashboard">Dashboard</NavLink></li>
-        <li><button className="btn btn-ghost ">Sign Out</button>
-        <NavLink to="/login">Login</NavLink></li>
+        {/* <li><button className="btn btn-ghost ">Sign Out</button> */}
+        <li><NavLink to="/login">Login</NavLink></li>
     </>
 
     return (
